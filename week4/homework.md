@@ -87,13 +87,14 @@ That means that we in js need to:
 - Now create a [post request using fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch#Supplying_request_options) with the `phonenumber`, `name` and `email`. Posting the request [here](../week3/homework#meal)
 - If the request is successful indicate to the user that the request went well. If it was unsuccessful show an error message. This we could do using `alert`
 
+### Styling
+Add some styling to the website so it is not so basic looking!
+
 ### Autocomplete for meals *optional*
 Create an autocomplete for searching for a meal. The autocomplete should be added to the `home` route and the `meals` route. The autocomplete should use the query parameter `title` in the [meals api](../week3/homework#using-the-api) 
 
 ### Reviews *optional*
 Create the possibility for a person to leave a review for a meal. 
 
-
 ### Deploy
-
 Deploy your application [using Heroku](readme.md/#deploying-to-heroku). 
