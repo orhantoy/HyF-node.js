@@ -1,0 +1,26 @@
+{
+  "elementary-school": {
+    "name": "Elementary School",
+    "university": false,
+    "startYear": 1994,
+    "endYear": 2004
+  },
+  "high-school": {
+    "name": "High School",
+    "university": false,
+    "startYear": 2004,
+    "endYear": 2007
+  },
+  "dtu-bachelor": {
+    "name": "DTU Bachelor",
+    "university": true,
+    "startYear": 2008,
+    "endYear": 2011
+  },
+  "dtu-master": {
+    "name": "DTU Master",
+    "university": true,
+    "startYear": 2012,
+    "endYear": 2014
+  }
+}
